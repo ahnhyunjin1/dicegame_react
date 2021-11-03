@@ -1,1 +1,1 @@
-< h1 >반응 First step
+<h1> React First step </h1>
