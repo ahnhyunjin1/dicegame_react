@@ -11,7 +11,7 @@ ReactDOM.render(
     <h1>가위바위보</h1>
     <h2>승리</h2>
     <button onClick={handleClick}>가위</button>
-    <button onClick={handleClick}>바위</button>
+    <button onClick={handleClick}>바 위</button>
     <button onClick={handleClick}>보</button>
   </>,
   document.getElementById('root')
